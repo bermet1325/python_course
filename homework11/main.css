@@ -1,0 +1,44 @@
+
+
+#animal{
+	text-align: center;
+	border: 1px solid black;
+	border-radius: 20px;
+	width: 70%;
+	padding-right: 50px;
+	 margin-left: auto;
+    margin-right: auto;
+}
+
+
+ img{
+	width: 40%;
+	padding-top: 15px;
+	border-radius: 50px;
+}
+
+h1{
+	font-style: italic;
+	font-size: 35px;
+}
+
+p{
+ padding-left: 20px;
+}
+
+button{
+	margin-top: 10px;
+	margin-bottom: 100px;
+	width:100px;
+	height: 50px;
+	border-radius: 10px;
+}
+button:hover{
+	margin-top: 10px;
+	margin-bottom: 100px;
+	background-color: orange;
+	width:100px;
+	height: 50px;
+	border:0px;
+	border-radius: 10px;
+}
